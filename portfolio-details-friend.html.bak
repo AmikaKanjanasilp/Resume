@@ -5,15 +5,13 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Story Writing Friend - Amika Kanjanasilp</title>
     <meta content="The story writing called Friend by Amika Kanjanasilp" name="description">
-    <meta content="Amika Kanjanasilp, Amika, Kanjanasilp, story writing, Arts student, Korean Major student"
-
+    <meta content="Amika Kanjanasilp, Amika, Kanjanasilp, story writing, Arts student, Korean Major student"
       name="keywords">
     <!-- Favicons -->
     <link href="assets/img/icon.png" rel="icon">
     <link href="assets/img/icon.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
       rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -29,18 +27,17 @@
     <meta name="author" content="Amika Kanjanasilp">
   </head>
   <body>
-    <main id="main"> <!-- ======= Portfolio Details Section ======= -->
+    <main id="main">
+      <!-- ======= Portfolio Details Section ======= -->
       <section id="portfolio-details" class="portfolio-details">
         <div class="container">
           <div class="row gy-4">
             <div class="col-lg-8">
               <div class="portfolio-details-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                  <div class="swiper-slide"> <img src="assets/img/portfolio/friend/friend_Page_1.jpg"
-
+                  <div class="swiper-slide"> <img src="assets/img/portfolio/friend/friend_Page_1.jpg"
                       alt="Page 1 of Story Writing 'Friend'"> </div>
-                  <div class="swiper-slide"> <img src="assets/img/portfolio/friend/friend_Page_2.jpg"
-
+                  <div class="swiper-slide"> <img src="assets/img/portfolio/friend/friend_Page_2.jpg"
                       alt="Page 2 of Story Writing 'Friend'"> </div>
                 </div>
                 <div class="swiper-pagination"></div>
@@ -60,8 +57,7 @@
                   life. </p>
               </div>
               <br>
-              <div style="text-align:center"> <a href="assets/file/friend.pdf"
-
+              <div style="text-align:center"> <a href="assets/file/friend.pdf"
                   target="_blank"><button type="button" class="button"> Download
                     File</button></a> </div>
             </div>

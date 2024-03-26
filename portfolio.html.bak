@@ -44,12 +44,7 @@
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i> </nav>
         <!-- .navbar -->
-        <div class="header-social-links"> <a href="https://www.facebook.com/AmikaFame"
-
-            class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.instagram.com/fameamika/" class="instagram" target="_blank"><i
-
-              class="bi bi-instagram"></i></a> <a href="https://www.linkedin.com/in/amika-kanjanasilp-591b19252"
+        <div class="header-social-links"> <a href="https://www.linkedin.com/in/amika-kanjanasilp-591b19252"
 
             class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
         </div>
@@ -68,117 +63,151 @@
               <ul id="portfolio-flters">
                 <li data-filter="*" class="filter-active">All</li>
                 <li data-filter=".filter-writing">Writing</li>
-                <li data-filter=".filter-trans">Translation</li>
+                <li data-filter=".filter-design">Design</li>
                 <li data-filter=".filter-video">Video</li>
               </ul>
             </div>
           </div>
-          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-            <div class="col-lg-4 col-md-6 portfolio-item filter-writing">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/kwan/kwan_Page_1.jpg"
+          
+         
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-md-6 portfolio-item filter-design">
+              <div class="portfolio-wrap"> <img src="assets/img/portfolio/perfume/preview.jpg"
 
-                  class="img-fluid" alt="A preview page of a writing an introduction to the book 'Kwan Sonk' in Thai">
+                  class="img-fluid rounded" alt="...">
                 <div class="portfolio-info">
-                  <h4>Thai - Book Introduction</h4>
-                  <p>Writing</p>
-                  <div class="portfolio-links"> <a href="portfolio-details-kwan.html"
+                  <h4>&nbsp; Infographic - "Types of Perfume"</h4>
+                  <p>&nbsp; Explain&nbsp;about Hallyu. And mentions the current Hallyu
+                phenomenon.</p>
+                  <div class="portfolio-links"> &nbsp; <a href="portfolio-details-perfume.html"
 
                       class="portfolio-details-lightbox" data-glightbox="type: external"
 
-                      title="Portfolio Details"><i class="bx bx-link"></i></a> </div>
+                      title="Portfolio Details"><i class="bi bi-zoom-in"></i></a>
+                  </div>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-writing">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/friend/friend_Page_1.jpg"
-
-                  class="img-fluid" alt="A preview page of a writing about a story that once happened in my life in Thai.">
-                <div class="portfolio-info">
-                  <h4>Thai - Story telling</h4>
-                  <p>Writing</p>
-                  <div class="portfolio-links"> <a href="portfolio-details-friend.html"
-
-                      class="portfolio-details-lightbox" data-glightbox="type: external"
-
-                      title="Portfolio Details"><i class="bx bx-link"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-writing">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/novel/novel.jpg"
-
-                  class="img-fluid" alt="A preview page of a short novel writing in Korean.">
-                <div class="portfolio-info">
-                  <h4>Korean - Short Novel</h4>
-                  <p>Writing</p>
-                  <div class="portfolio-links"> <a href="portfolio-details-novel.html"
-
-                      class="portfolio-details-lightbox" data-glightbox="type: external"
-
-                      title="Portfolio Details"><i class="bx bx-link"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-video">
+            
+            
+           
+            
+            
+              
+            <div class="col-md-6 portfolio-item filter-design">
               <div class="portfolio-wrap"> <img src="assets/img/portfolio/webtoon/webtoon.jpg"
 
-                  class="img-fluid" alt="The preview page of the introduction video about Hallyu. The background is yellow, in the middle of the bottom is the introducer's face and her hand pointing to the top, and the introducer's top is the subject of the clip in Korean.">
+                  class="img-fluid rounded" alt="...">
                 <div class="portfolio-info">
-                  <h4>Introducing Hallyu</h4>
-                  <p>Video</p>
-                  <div class="portfolio-links"> <a href="portfolio-details-webtoon.html"
+                  <h4>&nbsp; Korean Video Presentation - "Hallyu (Korean Wave)"</h4>
+                  <p>&nbsp; Explain about Hallyu. And mentions the current Hallyu
+                phenomenon. </p>
+                  <div class="portfolio-links"> &nbsp; <a href="portfolio-details-webtoon.html"
 
                       class="portfolio-details-lightbox" data-glightbox="type: external"
 
-                      title="Portfolio Details"><i class="bx bx-link"></i></a> </div>
+                      title="Portfolio Details"><i class="bi bi-zoom-in"></i></a>
+                  </div>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-trans">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/news/news_Page_1.jpg"
+           
+            
+            
+              
+              
+              
+              <div class="col-md-6 portfolio-item filter-video">
+                <div class="portfolio-wrap"> <img src="assets/img/portfolio/tour/tour.png"
 
-                  class="img-fluid" alt="A preview page of a Korean News Translation to Thai.">
-                <div class="portfolio-info">
-                  <h4>Korean News Translation</h4>
-                  <p>Translation</p>
-                  <div class="portfolio-links"> <a href="portfolio-details-news.html"
+                    class="img-fluid rounded" alt="...">
+                  <div class="portfolio-info">
+                    <h4>&nbsp; Korean Presentation - "Phetchabun, Thailand"</h4>
+                    <p>&nbsp;  Introducing Phetchabun, Thailand's must-see sights, local foods,
+                and traditional festival.</p>
+                    <div class="portfolio-links"> &nbsp; <a href="portfolio-details-tour.html"
 
-                      class="portfolio-details-lightbox" data-glightbox="type: external"
+                        class="portfolio-details-lightbox" data-glightbox="type: external"
 
-                      title="Portfolio Details"><i class="bx bx-link"></i></a> </div>
+                        title="Portfolio Details"><i class="bi bi-zoom-in"></i></a>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-trans">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/song/song_Page_3.jpg"
+              
+            
+              
+              
+          
+           
+              
+              
+            
+              <div class="col-md-6 portfolio-item filter-writing">
+                <div class="portfolio-wrap"> <img src="assets/img/portfolio/whyread/whyread.png"
 
-                  class="img-fluid" alt="A preview page of a Song Translation.">
-                <div class="portfolio-info">
-                  <h4>Song Translation</h4>
-                  <p>Translation</p>
-                  <div class="portfolio-links"> <a href="portfolio-details-song.html"
+                    class="img-fluid rounded" alt="...">
+                  <div class="portfolio-info">
+                    <h4>&nbsp; Thai - Book Introduction</h4>
+                    <p>&nbsp; Founded and led the "อ่านทำไม" Facebook page to recommending
+                books.</p>
+                    <div class="portfolio-links"> &nbsp; <a href="portfolio-details-FBpage.html"
 
-                      class="portfolio-details-lightbox" data-glightbox="type: external"
+                        class="portfolio-details-lightbox" data-glightbox="type: external"
 
-                      title="Portfolio Details"><i class="bx bx-link"></i></a> </div>
+                        title="Portfolio Details"><i class="bi bi-zoom-in"></i></a>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-video">
-              <div class="portfolio-wrap"> <img src="assets/img/portfolio/recom/recom1.jpg"
+              
+            
+           
+              <div class="col-md-6 portfolio-item filter-writing">
+                <div class="portfolio-wrap"> <img src="assets/img/portfolio/recom/recom1.jpg"
 
-                  class="img-fluid" alt="The preview page of the book introduction video. The background is white. In the center, there is a triangle and a video topic 'Book Recommendations', there are decorations in the shape of many sparkle, a half circle, and a cursor.">
-                <div class="portfolio-info">
-                  <h4>Book Recommendation</h4>
-                  <p>Video</p>
-                  <div class="portfolio-links"> <a href="portfolio-details-recom.html"
+                    class="img-fluid rounded" alt="...">
+                  <div class="portfolio-info">
+                    <h4>&nbsp; Thai - Book Introduction</h4>
+                    <p>&nbsp; Speak briefly about the contents of the book to make others
+                interested in reading it.</p>
+                    <div class="portfolio-links">&nbsp; <a href="portfolio-details-recom.html"
 
-                      class="portfolio-details-lightbox" data-glightbox="type: external"
+                        class="portfolio-details-lightbox" data-glightbox="type: external"
 
-                      title="Portfolio Details"><i class="bx bx-link"></i></a> </div>
+                        title="Portfolio Details"><i class="bi bi-zoom-in"></i></a>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
+              
+            
+
+              
+              
+              <div class="col-md-6 portfolio-item filter-writing">
+                <div class="portfolio-wrap"> <img src="assets/img/portfolio/kwan/kwan_Preview.jpg"
+
+                    class="img-fluid rounded" alt="...">
+                  <div class="portfolio-info">
+                    <h4>&nbsp; Writing - Introduction to the book "Kwan Sonk"</h4>
+                    <p> &nbsp;  This work is written about the details of the book "Kwan Sonk"
+                in terms of price, number of pages, publisher, synopsis, as well
+                as reasons that I think others should buy this book to read.</p>
+                    <div class="portfolio-links">&nbsp; <a href="portfolio-details-kwan.html"
+
+                        class="portfolio-details-lightbox" data-glightbox="type: external"
+
+                        title="Portfolio Details"><i class="bi bi-zoom-in"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+             
+            
+          
+              
+        
           </div>
         </div>
       </section>

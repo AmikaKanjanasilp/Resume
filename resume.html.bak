@@ -44,12 +44,7 @@
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i> </nav>
         <!-- .navbar -->
-        <div class="header-social-links"> <a href="https://www.facebook.com/AmikaFame"
-
-            class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.instagram.com/fameamika/" class="instagram" target="_blank"><i
-
-              class="bi bi-instagram"></i></a> <a href="https://www.linkedin.com/in/amika-kanjanasilp-591b19252"
+        <div class="header-social-links"> <a href="https://www.linkedin.com/in/amika-kanjanasilp-591b19252"
 
             class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
         </div>
@@ -68,14 +63,18 @@
               <h3 class="resume-title">Sumary</h3>
               <div class="resume-item pb-0">
                 <h1>Amika Kanjanasilp</h1>
-                <p><em>Fourth-year Korean major student interested in Korean
-                    language and literature. Enthusiastic, highly driven student
-                    with shown leadership ability who enjoys taking the
-                    initiative and seeking out new challenges.</em></p>
+                <p><em>A Detail-oriented and motivated recent Arts graduate from
+                    Silpakorn University with strong problem-solving skills, a
+                    growth mindset, and effective communication. Proficient in
+                    multiple languages and possess coordination skills. Eager to
+                    leverage academic knowledge and diverse experiences, seeking
+                    a challenging opportunity to apply skills and foster
+                    professional growth while supporting your company’s
+                    objectives.</em></p>
                 <p> </p>
                 <ul>
-                  <li>Bangkok, Thailand</li>
-                  <li>+66 91 856 0733</li>
+                  <li>Pak Kret, Nonthaburi, Thailand</li>
+                  <li>(+66) 91 856 0733</li>
                   <li>Kanjanasilp.a@gmail.com</li>
                 </ul>
                 <p></p>
@@ -83,9 +82,10 @@
               <h3 class="resume-title">Education</h3>
               <div class="resume-item">
                 <h4>Bachelor of Arts</h4>
-                <h5>2019 - Present</h5>
+                <h5>2019 - 2023</h5>
                 <p><em>Silpakorn University, Nakhon Pathom, Thailand</em></p>
-                <p>Major Korean, Minor Information Management</p>
+                <p>Major : Korean, Minor : Information Management</p>
+                <p>GPAX : 3.52 (Second Class Honors) </p>
               </div>
               <div class="resume-item">
                 <h4>Senior High School</h4>
@@ -97,13 +97,15 @@
             <div class="col-lg-6">
               <h3 class="resume-title">School Extra-Curricular Activities</h3>
               <div class="resume-item">
-                <h4>Korean major treasurer &amp; vice president</h4>
+                <h4>Korean major president assistant &amp; treasurer</h4>
                 <h5>2020 - 2021</h5>
                 <ul>
-                  <li>Manage and collect money for use in various activities.</li>
-                  <li>Collaborations and communicating with other president. </li>
-                  <li>Organized and coordinated various programs and events to
-                    generate revenue.</li>
+                  <li>-  Collaborated closely with the President and fellow members   
+                           of the Major to successfully plan and execute a project.
+                      </li>
+                  <li> -  Adapted to unforeseen challenges, demonstrating flexibility 
+                          and teamwork during the COVID-19 disruptions. </li>
+                  
                 </ul>
                 <p></p>
               </div>
